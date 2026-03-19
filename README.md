@@ -3,6 +3,7 @@
 This is the official repository for the paper:
 
 > **AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison**
+> 
 > [[Paper]](https://arxiv.org/abs/2603.13779v1) &nbsp;|&nbsp; [[Model]](https://huggingface.co/jiang-cc/AD-Copilot) &nbsp;|&nbsp; [[Thinking Model]](https://huggingface.co/jiang-cc/AD-Copilot-Thinking)
 
 ---

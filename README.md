@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em>Southern University of Science and Technology &nbsp;|&nbsp; Macau University of Science and Technology &nbsp;|&nbsp; Tencent YouTu Lab &nbsp;|&nbsp; A*STAR</em>
+  <em>Southern University of Science and Technology &nbsp;|&nbsp; Tencent YouTu Lab &nbsp;|&nbsp;  Macau University of Science and Technology &nbsp;|&nbsp; A*STAR</em>
 </p>
 
 <p align="center">
